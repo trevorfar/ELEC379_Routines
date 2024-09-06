@@ -1,0 +1,1 @@
+cd "c:\Users\trevo\Documents\ELEC377\" ; if ($?) { gcc tester.c -o tester } ; if ($?) { .\tester }
